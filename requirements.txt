@@ -3,3 +3,5 @@ pandas>=1.0.3
 matplotlib>=3.0.0
 sklearn>=0.0
 pandas_datareader>=0
+math>=0.0
+keras>=0.0
